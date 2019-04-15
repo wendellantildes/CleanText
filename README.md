@@ -1,4 +1,4 @@
-# JsonValidator
+# CleanText
 A tool to manipulate strings
 
 ### How do I get started?
