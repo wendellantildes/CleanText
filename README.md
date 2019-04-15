@@ -7,6 +7,6 @@ If you want remove repeated values from a string, use:
 
 ```csharp
   RemoveRepeatedValuesService.FromString(aText, separator: ';');
-}
+
 
 
